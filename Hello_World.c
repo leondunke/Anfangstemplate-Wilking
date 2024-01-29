@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-int x;
+float x;
 float y = 2.45;
 x = y / 3.56;
 y = y * (2 + x);
