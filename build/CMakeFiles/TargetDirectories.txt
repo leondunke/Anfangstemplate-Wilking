@@ -1,0 +1,3 @@
+/workspaces/Anfangstemplate-Wilking/build/CMakeFiles/erstes_cmake_exec.dir
+/workspaces/Anfangstemplate-Wilking/build/CMakeFiles/edit_cache.dir
+/workspaces/Anfangstemplate-Wilking/build/CMakeFiles/rebuild_cache.dir
