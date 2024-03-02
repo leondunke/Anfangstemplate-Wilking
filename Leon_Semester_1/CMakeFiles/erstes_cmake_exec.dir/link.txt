@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/erstes_cmake_exec.dir/Hello_World.c.o -o erstes_cmake_exec 
