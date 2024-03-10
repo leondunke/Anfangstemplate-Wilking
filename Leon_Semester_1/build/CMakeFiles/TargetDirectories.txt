@@ -1,3 +1,0 @@
-/workspaces/Anfangstemplate-Wilking/Leon_Semester_1/build/CMakeFiles/erstes_cmake_exec.dir
-/workspaces/Anfangstemplate-Wilking/Leon_Semester_1/build/CMakeFiles/edit_cache.dir
-/workspaces/Anfangstemplate-Wilking/Leon_Semester_1/build/CMakeFiles/rebuild_cache.dir
