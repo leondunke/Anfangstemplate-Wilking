@@ -3,8 +3,9 @@
 int main ()
 {
     int d;
-    int i = 0;
+    int i = 1;
     int k;
+    int p = 0;
     unsigned long long b = 0;
     printf("Bitte die Dezimalnummer eingeben, die Sie in Binär sehen wollen: ");
     scanf("%i", &d);
@@ -14,10 +15,13 @@ int main ()
         k = d % 2;
         if (k == 1)
         {d--;}
-        k = k * (10^i);
+        if (p != 0){
+        k = k * (10*i);
+        i = i * 10;
+        }
         b = b + k;
         d = d/2;
-        i++;
+        p++;
     }
 
     printf("Die Nummer in Binär lautet:\n %llu\n", b);
