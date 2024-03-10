@@ -2,7 +2,7 @@
 
 int main()
 {
-    int g[] = {4, 3, 2, 6, 2, 1, 4, 5, 1};
+    int g[] = {4, 3, 2, 6, 2, 1, 4, 5, 1, 4};
     float k = 0;
     int i;
     for (i = 0; i < sizeof(g)/sizeof(g[0]); i++)
