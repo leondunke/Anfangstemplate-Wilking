@@ -7,7 +7,7 @@ add_library(erste_statische_lib STATIC src/static.c)
 add_library(erste_shared_lib SHARED src/shared.c)
 target_include_directories(erste_statische_lib PUBLIC include)
 target_include_directories(erste_shared_lib PUBLIC include)
-add_executable(erstes_cmake_exec Hello_World.c)
+add_executable(erstes_cmake_exec main.c)
 target_include_directories(erstes_cmake_exec PUBLIC include)
 target_link_libraries(erstes_cmake_exec PRIVATE 
     erste_statische_lib
