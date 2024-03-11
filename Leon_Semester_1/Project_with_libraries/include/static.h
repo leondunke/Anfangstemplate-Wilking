@@ -1,0 +1,1 @@
+#ifndef STATICS_H_
